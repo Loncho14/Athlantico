@@ -1,0 +1,1 @@
+C:\Users\SantoTomas\Desktop\AthlanticoRP\FXserver +exec server.cfg
